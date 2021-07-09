@@ -1,0 +1,8 @@
+**__pycache__**
+*.pyc
+**.cache**
+**.ipynb_checkpoints**
+
+model/
+notebooks/transport/log
+json/
